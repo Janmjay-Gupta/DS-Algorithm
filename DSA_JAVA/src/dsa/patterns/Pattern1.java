@@ -7,3 +7,4 @@ public class Pattern1 {
 	}
 
 }
+ 
